@@ -1,0 +1,19 @@
+{
+  "name": "fullstack2019-osa3-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stutommi/fullstack2019-osa3-backend.git"
+  },
+  "author": "Tommi Tampio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stutommi/fullstack2019-osa3-backend/issues"
+  },
+  "homepage": "https://github.com/stutommi/fullstack2019-osa3-backend#readme"
+}
