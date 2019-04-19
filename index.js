@@ -52,8 +52,6 @@ app.get('/api/persons/:id', (req, res) => {
 })
 
 app.get('/api/info', (req, res) => {
-    console.log(req.body)
-
     res.send(
         `<p>Puhelinluettelossa ${persons.length} henkilön tiedot</p>
         <p>${new Date()}</p>`

@@ -1,7 +1,7 @@
-POST http://localhost:3001/api/persons HTTP/1.1
+POST https://gentle-scrubland-22242.herokuapp.com/api/persons HTTP/1.1
 Content-Type: application/json
 
 {
-    "name": "Arto Hellas",
+    "name": "Arto Hellasio",
     "number": "040-1234567"
 }

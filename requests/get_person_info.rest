@@ -1,1 +1,1 @@
-GET http://localhost:3001/api/info HTTP/1.1
+GET https://gentle-scrubland-22242.herokuapp.com/api/info HTTP/1.1
